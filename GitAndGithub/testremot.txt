@@ -1,3 +1,5 @@
 reomt command 
 git remote show origin 
 up to date 
+---------------------------------------------------------
+git mearg  branch (( origin/master )) : pull and merge in remote
