@@ -1,0 +1,3 @@
+reomt command 
+git remote show origin 
+up to date 
