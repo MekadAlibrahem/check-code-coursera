@@ -1,2 +1,5 @@
 add new branch in local repo 
 branch name : test-branch
+------------------------------------
+commands  :
+- git push  -u origin branch-name   :  add new branch in local repo to remote repo 
