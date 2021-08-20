@@ -1,2 +1,3 @@
 command git rebase <branch> 
-merge to branch 
+ move the current branch on a top of the refactor branch
+	this makes debugging easier and prevents three-way merges  by transferring the commpleted work 	from one branch to another
