@@ -1,0 +1,2 @@
+git push --delete origin <branch>  : delete to remote branch 
+git branch -d <branch> : delete local branch
