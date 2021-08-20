@@ -1,13 +1,14 @@
 # Started with python 
 ==============================
 
-#Puthon Data Structures
+# Puthon Data Structures
 ========================
 
-#python data basce
+# python data basce
 ==========================
 
-#Using DataBases With Python
+# Using DataBases With Python
 ===============================
 
-#Using Python To Access Web Data
+# Using Python To Access Web Data
+==================================
