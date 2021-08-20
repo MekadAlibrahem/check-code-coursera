@@ -1,0 +1,2 @@
+command git rebase <branch> 
+merge to branch 
